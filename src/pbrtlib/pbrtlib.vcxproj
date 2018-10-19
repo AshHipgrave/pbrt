@@ -26,9 +26,14 @@
     <ClInclude Include="Light.h" />
     <ClInclude Include="Material.h" />
     <ClInclude Include="Medium.h" />
+    <ClInclude Include="Point2.h" />
+    <ClInclude Include="Point3.h" />
     <ClInclude Include="Sampler.h" />
     <ClInclude Include="Shape.h" />
     <ClInclude Include="Texture.h" />
+    <ClInclude Include="Utilities.h" />
+    <ClInclude Include="Vector2.h" />
+    <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Aggregate.cpp" />

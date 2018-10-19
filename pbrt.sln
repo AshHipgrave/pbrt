@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pbrtlib", "src\pbrtlib\pbrtlib.vcxproj", "{AE2767B6-49DB-4714-893E-A4DF15D4EABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2767B6-49DB-4714-893E-A4DF15D4EABE}.Debug|x64.ActiveCfg = Debug|x64
+		{AE2767B6-49DB-4714-893E-A4DF15D4EABE}.Debug|x64.Build.0 = Debug|x64
+		{AE2767B6-49DB-4714-893E-A4DF15D4EABE}.Release|x64.ActiveCfg = Release|x64
+		{AE2767B6-49DB-4714-893E-A4DF15D4EABE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7945ABA8-EF6D-45C9-AB5E-19E9CF3EC57B}
+	EndGlobalSection
+EndGlobal

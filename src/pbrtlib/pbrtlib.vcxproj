@@ -18,6 +18,30 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Aggregate.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Filter.h" />
+    <ClInclude Include="Integrator.h" />
+    <ClInclude Include="Light.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Medium.h" />
+    <ClInclude Include="Sampler.h" />
+    <ClInclude Include="Shape.h" />
+    <ClInclude Include="Texture.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Aggregate.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="Filter.cpp" />
+    <ClCompile Include="Integrator.cpp" />
+    <ClCompile Include="Light.cpp" />
+    <ClCompile Include="Material.cpp" />
+    <ClCompile Include="Medium.cpp" />
+    <ClCompile Include="Sampler.cpp" />
+    <ClCompile Include="Shape.cpp" />
+    <ClCompile Include="Texture.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{AE2767B6-49DB-4714-893E-A4DF15D4EABE}</ProjectGuid>

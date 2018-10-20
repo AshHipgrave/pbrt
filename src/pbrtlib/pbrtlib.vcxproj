@@ -25,13 +25,13 @@
     <ClInclude Include="Integrator.h" />
     <ClInclude Include="Light.h" />
     <ClInclude Include="Material.h" />
+    <ClInclude Include="MathUtils.h" />
     <ClInclude Include="Medium.h" />
     <ClInclude Include="Point2.h" />
     <ClInclude Include="Point3.h" />
     <ClInclude Include="Sampler.h" />
     <ClInclude Include="Shape.h" />
     <ClInclude Include="Texture.h" />
-    <ClInclude Include="Utilities.h" />
     <ClInclude Include="Vector2.h" />
     <ClInclude Include="Vector3.h" />
   </ItemGroup>
@@ -68,7 +68,7 @@
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
-    <ConfigurationType>Application</ConfigurationType>
+    <ConfigurationType>StaticLibrary</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v141</PlatformToolset>
     <CharacterSet>MultiByte</CharacterSet>
